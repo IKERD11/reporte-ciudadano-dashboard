@@ -45,7 +45,7 @@ La interfaz no permite modificar el propio rol ni cuentas de superadministrador.
 
 ### Configuración
 
-Consulta categorías y datos del piloto. Las cuentas con permisos correspondientes pueden crear departamentos para utilizarlos en la asignación de reportes.
+Muestra las mismas nueve categorías de la app, con sus nombres, orden e iconos 3D originales: Robo / Asalto, Accidente, Vandalismo, Violencia, Alumbrado público, Baches / Vía pública, Maltrato animal, Deceso y Otro. Los filtros utilizan este mismo catálogo. También permite consultar datos del piloto y, con los permisos correspondientes, crear departamentos para asignar reportes.
 
 ## Conexión con la app ciudadana
 
