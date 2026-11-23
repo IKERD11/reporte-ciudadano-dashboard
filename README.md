@@ -92,7 +92,7 @@ Las seis cuentas incluidas tienen rol **MUNICIPAL_ADMIN de Cuautla**; no son sup
 
 - **Interfaz:** Next.js y React con exportación estática.
 - **Autenticación y datos:** Supabase y PostgreSQL.
-- **Mapa:** Leaflet con cartografía de OpenStreetMap.
+- **Mapa:** MapLibre GL JS 6.19.0 y OpenFreeMap/OpenMapTiles con datos de OpenStreetMap; Leaflet como respaldo 2D.
 - **Alojamiento:** GitHub Pages con HTTPS.
 
 ## Desarrollo y actualización
