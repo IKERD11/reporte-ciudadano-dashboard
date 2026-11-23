@@ -74,6 +74,18 @@ No equivale a una prueba de GPS o fotografías en un dispositivo real.
 
 Los cambios de gestión quedan registrados en la bitácora. Si otra persona modifica el mismo reporte, el panel puede pedir recargarlo antes de continuar.
 
+## Departamentos propuestos del piloto
+
+Se configuraron ocho áreas: Seguridad Pública (Robo / Asalto y Vandalismo),
+Tránsito Municipal (Accidente), Atención a Víctimas y Violencia (Violencia),
+Alumbrado Público, Obras Públicas y Mantenimiento Vial (Baches / Vía pública),
+Protección y Bienestar Animal (Maltrato animal), Protección Civil (Deceso, para
+canalización inicial) y Atención Ciudadana (Otro).
+
+Son una propuesta para las pruebas, sujeta a validación institucional. El panel
+sugiere un área al abrir un reporte sin asignación; el administrador puede
+cambiarla y debe guardarla expresamente. No se reasignan reportes automáticamente.
+
 ## Flujo de seguimiento
 
 El recorrido habitual es:
