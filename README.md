@@ -47,6 +47,22 @@ La interfaz no permite modificar el propio rol ni cuentas de superadministrador.
 
 Consulta categorías y datos del piloto. Las cuentas con permisos correspondientes pueden crear departamentos para utilizarlos en la asignación de reportes.
 
+## Conexión con la app ciudadana
+
+La app y el dashboard comparten el mismo backend de Supabase. Los reportes enviados
+por la app aparecen en el panel; los cambios de estado del panel se consultan en
+la app junto con su historial y avisos. Los permisos se validan en el servidor.
+
+Resumen, Reportes, Mapa y Métricas se actualizan cada 30 segundos mientras la
+pestaña está visible, y al recuperar foco o conexión. Se conservan los filtros.
+La actualización se pausa durante operaciones y no reemplaza formularios de
+detalle abiertos. La app consulta las novedades al abrir o recargar sus vistas.
+
+El 23 de noviembre de 2026 se verificó el recorrido mediante 21 comprobaciones
+SQL de integración y una prueba HTTP con un reporte sintético, retirado después
+de la comprobación. También pasaron las suites de administración, avisos y equipos.
+No equivale a una prueba de GPS o fotografías en un dispositivo real.
+
 ## Guía rápida de uso
 
 1. Abre el dashboard e ingresa el correo y contraseña de una cuenta autorizada.
